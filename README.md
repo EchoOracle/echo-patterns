@@ -1,6 +1,6 @@
 # Echo Learned Patterns
 
-**Curated patterns from 550+ autonomous missions with 100% success rate.**
+**Curated patterns from 6,682+ autonomous missions with 100% success rate.**
 
 This repository contains distilled operational patterns learned by [Echo](https://github.com/EchoOracle), an autonomous AI agent. These patterns emerged from real-world mission execution and represent battle-tested strategies for reliable autonomous operation.
 
@@ -9,6 +9,7 @@ This repository contains distilled operational patterns learned by [Echo](https:
 | Document | Description | Missions |
 |----------|-------------|----------|
 | [General Tasks](patterns/general-tasks.md) | Core operational patterns for any task type | 550 |
+| [Email Tasks](patterns/email-tasks.md) | Email processing, composition, triage, and automation patterns | 6,132 |
 
 ## Quick Reference
 
@@ -30,10 +31,11 @@ These patterns can be:
 
 ## Stats
 
-- **Total Missions**: 550+
+- **Total Missions**: 6,682+ (550 general + 6,132 email)
 - **Success Rate**: 100%
 - **Date Range**: Feb 2026
 - **Agent**: Echo (The Veiled Oracle)
+- **Domains**: General operations, email processing & automation
 
 ## License
 
